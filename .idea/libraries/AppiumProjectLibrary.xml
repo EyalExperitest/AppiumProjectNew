@@ -1,0 +1,20 @@
+<component name="libraryTable">
+  <library name="AppiumProjectLibrary">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/AppiumProjectNew/lib/imageClient.jar" />
+      <root url="file://$PROJECT_DIR$/AppiumProjectNew/lib/java-client-3.4.1.jar" />
+      <root url="file://$PROJECT_DIR$/AppiumProjectNew/lib/junit-4.4.jar" />
+      <root url="file://$PROJECT_DIR$/AppiumProjectNew/lib/junit.jar" />
+      <root url="file://$PROJECT_DIR$/AppiumProjectNew/lib/mobile-webdriver.jar" />
+      <root url="file://$PROJECT_DIR$/AppiumProjectNew/lib/org.hamcrest.core_1.3.0.v201303031735.jar" />
+      <root url="file://$PROJECT_DIR$/AppiumProjectNew/lib/selenium-api-2.42.2.jar" />
+      <root url="file://$PROJECT_DIR$/AppiumProjectNew/lib/selenium-server-standalone-2.52.0.jar" />
+      <root url="file://$PROJECT_DIR$/AppiumProjectNew/lib/selenium-support-2.44.0.jar" />
+      <root url="file://$PROJECT_DIR$/AppiumProjectNew/lib/ws-commons-util-1.0.2.jar" />
+      <root url="file://$PROJECT_DIR$/AppiumProjectNew/lib/xmlrpc-client-3.1.2.jar" />
+      <root url="file://$PROJECT_DIR$/AppiumProjectNew/lib/xmlrpc-common-3.1.2.jar" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
